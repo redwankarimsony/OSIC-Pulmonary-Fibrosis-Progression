@@ -1,6 +1,6 @@
 ![](https://www.osicild.org/uploads/1/2/2/7/122798879/editor/kaggle-v01-clipped_2.png?1569348761)
 
-** For better view, please use the live kaggle links.. 
+**For better view, please use the live kaggle links.. 
 
 # EDAs: 
 1. [Pulmonary Fibrosis Progression \[EDA, Lung Segment\]](https://github.com/redwankarimsony/OSIC-Pulmonary-Fibrosis-Progression/blob/main/pulmonary-fibrosis-progression-eda-lung-segment.ipynb)   or [Live Kaggle Link](https://www.kaggle.com/redwankarimsony/pulmonary-fibrosis-progression-eda-lung-segment)
