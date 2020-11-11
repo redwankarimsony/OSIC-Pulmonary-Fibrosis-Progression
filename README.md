@@ -9,3 +9,7 @@
 
 # Solution Notebooks: 
 1. [Submission Solution](https://github.com/redwankarimsony/OSIC-Pulmonary-Fibrosis-Progression/blob/main/fibrosis-osic-submission-20.ipynb) or [Live Kaggle Link](https://www.kaggle.com/redwankarimsony/fibrosis-osic-submission-20/data)
+
+# Result: 
+* **Solo Bronze medal**
+* **198** th out of **2097** teams **(Top 10%)** [Leaderboard Link](https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression/leaderboard)
